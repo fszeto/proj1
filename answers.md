@@ -20,3 +20,4 @@ application.html.erb provides default rendering of 'layouts/messages'. This allo
 This project was pretty fun! I've enjoyed the decal overall.
 
 # Extra credit: Link your Heroku deployed app
+https://github.com/fszeto/proj1
